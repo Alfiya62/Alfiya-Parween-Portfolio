@@ -1,0 +1,10 @@
+{
+  "name": "Alfiya Parween Portfolio",
+  "description": "Full-stack portfolio showcasing MERN stack development and deep learning projects including Blood Life Savior and NeuroSense system simulations.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
